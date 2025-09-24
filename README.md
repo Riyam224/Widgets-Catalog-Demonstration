@@ -8,15 +8,25 @@ This project acts as a **live catalog** where you can see, test, and learn how d
 
 ## 📸 Demo Previews
 
-Here are a few video demonstrations of the project in action:
+<!-- Here are a few video demonstrations of the project in action:
 
 - 🎥 [Demo Video 1](screenshots/demo.gif)  
 - 🎥 [Demo Video 2](screenshots/demo_blur.gif)  
-- 🎥 [Demo Video 3](screenshots/demo2.gif)  
+- 🎥 [Demo Video 3](screenshots/demo2.gif)   -->
 
-And here’s a quick animated GIF:  
+And here’s a quick demonstrations videos GIF:  
+
+### demo 
 
 ![Demo](screenshots/demo.gif)
+
+### demo_blur whole page
+
+![Demo](screenshots/demo_blur.gif)
+
+### demo 
+
+![Demo](screenshots/demo2.gif)
 
 ---
 
@@ -86,6 +96,7 @@ No extra packages are required.
 ## ▶️ Getting Started
 
 ### 1️⃣ Clone the repository
+
 ```bash
 git clone https://github.com/Riyam224/Widgets-Catalog-Demonstration.git
 cd wWidgets-Catalog-Demonstration
@@ -122,10 +133,10 @@ The assets/data.json file contains preloaded tasks for the to-do list demo:
 🎯 Learning Outcomes
 
 By exploring this project, you will learn:
-	•	How to implement Flutter animations (both implicit & explicit).
-	•	How to use interactive widgets like Dismissible, Draggable, and InteractiveViewer.
-	•	How to create dynamic UI updates with JSON-powered lists.
-	•	How to explore scrolling, text, layout, and effects widgets all in one app.
+ • How to implement Flutter animations (both implicit & explicit).
+ • How to use interactive widgets like Dismissible, Draggable, and InteractiveViewer.
+ • How to create dynamic UI updates with JSON-powered lists.
+ • How to explore scrolling, text, layout, and effects widgets all in one app.
 
 ⸻
 
