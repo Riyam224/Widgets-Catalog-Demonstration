@@ -7,9 +7,10 @@ This project acts as a **live catalog** where you can see, test, and learn how d
 ---
 
 ## 📸 Demo Previews
+
 And here’s a quick demonstrations videos GIF:  
 
-### demo 
+### demo
 
 ![Demo](screenshots/demo.gif)
 
@@ -17,7 +18,7 @@ And here’s a quick demonstrations videos GIF:
 
 ![Demo](screenshots/demo_blur.gif)
 
-### demo 
+### demo
 
 ![Demo](screenshots/demo2.gif)
 
@@ -92,7 +93,7 @@ No extra packages are required.
 
 ```bash
 git clone https://github.com/Riyam224/Widgets-Catalog-Demonstration.git
-cd wWidgets-Catalog-Demonstration
+cd Widgets-Catalog-Demonstration
 
 2️⃣ Install dependencies
 
