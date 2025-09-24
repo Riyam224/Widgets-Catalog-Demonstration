@@ -7,13 +7,6 @@ This project acts as a **live catalog** where you can see, test, and learn how d
 ---
 
 ## 📸 Demo Previews
-
-<!-- Here are a few video demonstrations of the project in action:
-
-- 🎥 [Demo Video 1](screenshots/demo.gif)  
-- 🎥 [Demo Video 2](screenshots/demo_blur.gif)  
-- 🎥 [Demo Video 3](screenshots/demo2.gif)   -->
-
 And here’s a quick demonstrations videos GIF:  
 
 ### demo 
