@@ -1,0 +1,42 @@
+[
+   {
+      "id": 1,
+      "task": "Wake up at 7:00 AM",
+      "done": false
+   },
+   {
+      "id": 2,
+      "task": "Have a healthy breakfast",
+      "done": false
+   },
+   {
+      "id": 3,
+      "task": "Work on Flutter project",
+      "done": false
+   },
+   {
+      "id": 4,
+      "task": "Study 2 chapters of a book",
+      "done": false
+   },
+   {
+      "id": 5,
+      "task": "Go for a 30 min walk",
+      "done": false
+   },
+   {
+      "id": 6,
+      "task": "Call a friend or family member",
+      "done": false
+   },
+   {
+      "id": 7,
+      "task": "Prepare dinner",
+      "done": false
+   },
+   {
+      "id": 8,
+      "task": "Write down 3 things you learned today",
+      "done": false
+   }
+]
